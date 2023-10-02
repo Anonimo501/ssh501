@@ -9,4 +9,10 @@ Herramienta creada con chatGPT, para realizar ataques de diccionario a protocolo
 ![image](https://github.com/Anonimo501/ssh501/assets/67207446/6d1370e2-9da6-4f9b-80e6-82f19e55dd88)
 
 ## Instalacion y uso
-git clone 
+git clone https://github.com/Anonimo501/ssh501.git
+
+cd /ssh501
+
+chmod +x ssh501.sh
+
+./ssh501.sh
